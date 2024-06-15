@@ -68,4 +68,4 @@ public class ProductManager {
         }
         System.out.println("Product not found.");
     }
-}
+}// Feature-Branch 2: Fügt eine Methode zur Produktaktualisierung hinzu
