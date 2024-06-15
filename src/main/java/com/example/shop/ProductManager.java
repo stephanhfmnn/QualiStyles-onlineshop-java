@@ -68,4 +68,6 @@ public class ProductManager {
         }
         System.out.println("Product not found.");
     }
-}// Feature-Branch 1: Fügt eine Methode zur Produktsuche hinzu
+	// Feature-Branch 1: Fügt eine Methode zur Produktsuche hinzu
+	// Feature-Branch 2: Fügt eine Methode zur Produktaktualisierung hinzu
+
